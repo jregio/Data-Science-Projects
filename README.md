@@ -14,3 +14,5 @@ Systematically evaluated three modeling approaches of decreasing complexity:
 The perfect F1-score achieved with the simplest model demonstrated an important ML principle: always establish baseline performance with simple models before adding complexity. The linearly separable nature of the binary-encoded data made logistic regression the optimal choice, outperforming more sophisticated ensemble methods.
 
 This project reinforced the value of systematic model selection and the importance of matching model complexity to problem complexity.
+
+[Link to competition](https://www.kaggle.com/competitions/anomaly-dectection-for-financial)
