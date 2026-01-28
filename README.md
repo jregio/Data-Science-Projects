@@ -21,6 +21,8 @@ I learned how to construct a computer vision pipeline starting with foundational
 ### Future work 
 There's so many different things to try out but with so little time because the bottleneck is dataloading. Each epoch with 16 workers takes 30 seconds. Some things to try out include different foundational models, different embedding dimensions, different loss functions + adjusting parameters for the loss functions, different ways to handle class imbalance, different number of epochs and learning rate, etc.
 
+[Link to competition](https://www.kaggle.com/competitions/jaguar-re-id/)
+
 ---
 
 ## Anomaly Detection for Financial Data
