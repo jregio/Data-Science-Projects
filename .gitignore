@@ -1,2 +1,4 @@
 .DS_Store
 */.DS_Store
+computer-vision/jaguar-re-id
+*.pth
